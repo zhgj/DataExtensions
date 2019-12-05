@@ -1,0 +1,2 @@
+# DataExtensions
+MSSQL扩展类，利用反射解决DataRow或DataReader转对象、DataTable转对象列表
